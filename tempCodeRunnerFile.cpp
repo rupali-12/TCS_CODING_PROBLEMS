@@ -1,0 +1,4 @@
+  if (sum == temp)
+    {
+        count++;
+    }
